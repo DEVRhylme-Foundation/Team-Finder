@@ -21,6 +21,5 @@ A MERN Stack app to help developers find teammates for hackathons.
    ```
    MONGO_URI=your-mongodb-uri
    ```
-   - Run: `cd server && npm install && npm run dev`
-3. Frontend:
-   - Run: `cd client && npm install && npm start`
+3. npm install express mongoose
+4. npm start
